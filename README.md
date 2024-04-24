@@ -1,5 +1,5 @@
-Live: https://job-listings-frontmentor.netlify.app
 
+[Live App](https://job-listings-frontmentor.netlify.app)
 
 # Getting Started with Create React App
 
